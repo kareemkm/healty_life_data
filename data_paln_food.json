@@ -1,0 +1,1509 @@
+{
+    "dietPlans": {
+      "weight_loss": {
+        "days": [
+            {
+                "day": 1,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Oatmeal with almond milk, honey, and bananas",
+                        "calories": 350,
+                        "quantity": "100g oatmeal, 200ml almond milk, 1 tbsp honey, 1 banana",
+                        "recipe": "Cook the oatmeal in almond milk until soft. Stir in honey and top with sliced banana.",
+                        "image_url": "https://www.allrecipes.com/thmb/v003s8fYgY9xio5tHwS4UmGjYu0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1058914-9b799cd8498443199cf9eb17540a35eb.jpg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Handful of mixed nuts",
+                        "calories": 200,
+                        "quantity": "30g mixed nuts",
+                        "recipe": "Simply enjoy a handful of mixed nuts as a snack.",
+                        "image_url": "https://media.post.rvohealth.io/wp-content/uploads/2020/09/AN141-Nuts-In-Wooden-Bowl-732x549-thumb.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Grilled chicken salad with avocado and olive oil dressing",
+                        "calories": 500,
+                        "quantity": "150g grilled chicken, 100g mixed greens, 1/2 avocado, 2 tbsp olive oil",
+                        "recipe": "Grill the chicken and slice. Toss with greens, avocado, and drizzle with olive oil.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUIJ6cver5sLx_6zDW2cxgqizad8GwQ-3dA&s"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Greek yogurt with honey and walnuts",
+                        "calories": 250,
+                        "quantity": "200g Greek yogurt, 1 tbsp honey, 30g walnuts",
+                        "recipe": "Mix honey into yogurt and top with chopped walnuts.",
+                        "image_url": "https://www.eatingwell.com/thmb/a6AOuNORtHOrWbIlhHzJFH3_biM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582993-200eb606454f44a1af76979da4d7cebe.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Baked fish with quinoa and steamed vegetables",
+                        "calories": 600,
+                        "quantity": "150g fish, 100g quinoa, 150g mixed vegetables",
+                        "recipe": "Bake the fish at 180°C for 15 minutes. Cook quinoa as per package instructions and steam vegetables.",
+                        "image_url": "https://assets.wholefoodsmarket.com/recipes/3178/2048/1536/3178-4.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1900
+              },
+              {
+                "day": 2,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Whole grain toast with avocado and poached eggs",
+                        "calories": 400,
+                        "quantity": "2 slices whole grain bread, 1 avocado, 2 eggs",
+                        "recipe": "Toast the bread, mash avocado on top, and add poached eggs.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmisvwcdc3yz4y6-LnN87YD0EJkOP7Nrl6tg&s"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Fruit salad with a drizzle of honey",
+                        "calories": 150,
+                        "quantity": "200g mixed fruit",
+                        "recipe": "Chop fruit and mix in a bowl, drizzle with honey.",
+                        "image_url": "https://www.modernhoney.com/wp-content/uploads/2023/05/Fruit-Salad-1.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Grilled turkey wrap with hummus and vegetables",
+                        "calories": 500,
+                        "quantity": "100g turkey, 1 whole wheat wrap, 50g hummus, 100g vegetables",
+                        "recipe": "Fill wrap with turkey, hummus, and sliced vegetables, then roll it up.",
+                        "image_url": "https://www.jocooks.com/wp-content/uploads/2013/01/turkey-hummus-and-veggie-wrap-500x500.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein shake with almond milk and berries",
+                        "calories": 300,
+                        "quantity": "1 scoop protein powder, 200ml almond milk, 100g mixed berries",
+                        "recipe": "Blend all ingredients until smooth.",
+                        "image_url": "https://i5.walmartimages.com/asr/2b5c8626-816f-47dc-8e53-b54677ecd753.3e83a8d58be9781abb2456209aa52e2f.jpeg?odnHeight=264&odnWidth=264&odnBg=FFFFFF"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Stir-fried tofu with brown rice and mixed vegetables",
+                        "calories": 600,
+                        "quantity": "150g tofu, 100g brown rice, 150g mixed vegetables",
+                        "recipe": "Stir-fry tofu and vegetables in a pan, serve with cooked brown rice.",
+                        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2021/09/Tofu-Stir-Fry-8.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1950
+              },
+              {
+                "day": 3,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Smoothie bowl with spinach, banana, and protein powder",
+                        "calories": 350,
+                        "quantity": "100g spinach, 1 banana, 1 scoop protein powder, 200ml almond milk",
+                        "recipe": "Blend all ingredients until smooth, pour into a bowl and top with fruit.",
+                        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2023/04/Green-Smoothie-Bowl-7.jpg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Carrot sticks with hummus",
+                        "calories": 150,
+                        "quantity": "100g carrot sticks, 50g hummus",
+                        "recipe": "Serve carrot sticks with hummus for dipping.",
+                        "image_url": "https://media01.stockfood.com/largepreviews/MTM2NzYzOTQ=/00441174-Hummus-with-carrot-sticks.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Whole grain pasta with marinara sauce and grilled chicken",
+                        "calories": 600,
+                        "quantity": "100g whole grain pasta, 150g grilled chicken, 100g marinara sauce",
+                        "recipe": "Cook pasta, grill chicken, and mix with marinara sauce.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUaSg7KPU8fgqhUiSt_tjsaJYDXiuZHJfCWg&s"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Cottage cheese with pineapple slices",
+                        "calories": 200,
+                        "quantity": "200g cottage cheese, 100g pineapple",
+                        "recipe": "Mix cottage cheese with pineapple slices.",
+                        "image_url": "https://static.toiimg.com/thumb/62885742.cms?imgsize=495709&width=800&height=800"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Baked salmon with roasted sweet potatoes and spinach",
+                        "calories": 600,
+                        "quantity": "150g salmon, 200g sweet potatoes, 100g spinach",
+                        "recipe": "Bake salmon and sweet potatoes, sauté spinach until wilted.",
+                        "image_url": "https://www.primaverakitchen.com/wp-content/uploads/2019/01/Spicy-Salmon-Sweet-Potato-Skillet-Primavera-Kitchen-1.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1900
+              },
+              {
+                "day": 4,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Greek yogurt parfait with granola and berries",
+                        "calories": 400,
+                        "quantity": "200g Greek yogurt, 50g granola, 100g mixed berries",
+                        "recipe": "Layer yogurt, granola, and berries in a bowl.",
+                        "image_url": "https://feelgoodfoodie.net/wp-content/uploads/2021/05/fruit-and-yogurt-parfait-08.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Mixed nuts and a piece of dark chocolate",
+                        "calories": 200,
+                        "quantity": "30g mixed nuts, 20g dark chocolate",
+                        "recipe": "Enjoy a handful of mixed nuts with a piece of dark chocolate.",
+                        "image_url": "https://thegreenmonkeychocolatier.com/wp-content/uploads/2023/11/Mixed-Nuts-Dark-Chocolate-Mendiants.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Tuna salad with olive oil and quinoa",
+                        "calories": 550,
+                        "quantity": "150g tuna, 100g quinoa, 100g mixed greens, 2 tbsp olive oil",
+                        "recipe": "Mix tuna with quinoa, greens, and drizzle with olive oil.",
+                        "image_url": "https://cravinghomecooked.com/wp-content/uploads/2020/04/tuna-quinoa-salad-1-8.jpg"
+                      }
+                    ],
+                    "total_calories": 550
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Apple slices with peanut butter",
+                        "calories": 200,
+                        "quantity": "1 apple, 2 tbsp peanut butter",
+                        "recipe": "Slice the apple and dip in peanut butter.",
+                        "image_url": "https://images.heb.com/is/image/HEBGrocery/Large/apple-slices-with-peanut-butter-snack-recipe-1.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Grilled beef steak with mashed potatoes and steamed vegetables",
+                        "calories": 600,
+                        "quantity": "150g beef, 200g mashed potatoes, 100g mixed vegetables",
+                        "recipe": "Grill beef steak, serve with mashed potatoes and steamed vegetables.",
+                        "image_url": "https://mealpractice.b-cdn.net/115758805811335168/grilled-sirloin-steak-with-roasted-vegetables-and-garlic-mashed-potatoes-MRUmPP5Rei.webp"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1950
+              },
+              {
+                "day": 5,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Chia pudding with almond milk and berries",
+                        "calories": 350,
+                        "quantity": "50g chia seeds, 200ml almond milk, 100g mixed berries",
+                        "recipe": "Soak chia seeds in almond milk overnight. Top with berries before serving.",
+                        "image_url": "https://wholefoodsoulfoodkitchen.com/wp-content/uploads/2022/11/chia-seeds-with-almond-milk-recipe.jpg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Celery sticks with cream cheese",
+                        "calories": 150,
+                        "quantity": "100g celery, 50g cream cheese",
+                        "recipe": "Spread cream cheese on celery sticks.",
+                        "image_url": "https://homemadehooplah.com/wp-content/uploads/2022/02/bacon-ranch-stuffed-celery-2.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Quinoa salad with chickpeas and lemon dressing",
+                        "calories": 550,
+                        "quantity": "100g quinoa, 100g chickpeas, 100g mixed greens, 2 tbsp lemon dressing",
+                        "recipe": "Cook quinoa and mix with chickpeas and greens. Drizzle with lemon dressing.",
+                        "image_url": "https://simple-veganista.com/wp-content/uploads/2014/01/lemon-quinoa-chickpea-salad-recipe-3.jpg"
+                      }
+                    ],
+                    "total_calories": 550
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Rice cakes with almond butter",
+                        "calories": 200,
+                        "quantity": "2 rice cakes, 2 tbsp almond butter",
+                        "recipe": "Spread almond butter on rice cakes.",
+                        "image_url": "https://cdn.foodaciously.com/static/recipes/97ce4a53-4ee4-4665-8585-3d4f4949b1dd/step/step-1-strawberry-and-yogurt-almond-rice-cake-89b563cc4bdf427db099974ffc7e7a85-1920.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Stir-fried shrimp with vegetables and broewn rice",
+                        "calories": 600,
+                        "quantity": "150g shrimp, 150g mixed vegetables, 100g brown rice",
+                        "recipe": "Stir-fry shrimp and vegetables in a pan and serve with brown rice.",
+                        "image_url": "https://www.cookincanuck.com/wp-content/uploads/2021/09/Shrimp-Vegetable-Stir-Fry-Square-1200-1.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1950
+              },
+              {
+                "day": 6,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Egg white omelette with spinach and tomatoes",
+                        "calories": 300,
+                        "quantity": "4 egg whites, 100g spinach, 100g tomatoes",
+                        "recipe": "Whisk egg whites, pour into a pan, add spinach and tomatoes, and cook until set.",
+                        "image_url": "https://www.bhg.com/thmb/MjFiXjiPccaXwPGfmLCMeMsGN9A=/1280x0/filters:no_upscale():strip_icc()/RU234635-4d8ab284beb0469dbaa37a906cfae23a.jpg"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Handful of almonds",
+                        "calories": 200,
+                        "quantity": "30g almonds",
+                        "recipe": "Enjoy a handful of almonds as a snack.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2AELHSWz1w73nrnV_vVBleMrx5RGxCUT5pQ&s"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Baked chicken breast with broccoli and sweet potato",
+                        "calories": 550,
+                        "quantity": "150g chicken, 150g broccoli, 200g sweet potato",
+                        "recipe": "Bake chicken and sweet potato, steam broccoli.",
+                        "image_url": "https://www.cookingclassy.com/wp-content/uploads/2016/09/chicken_broccoli_sweet_potato_sheet_pan_dinner..jpg"
+                      }
+                    ],
+                    "total_calories": 550
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Cucumber slices with guacamole",
+                        "calories": 150,
+                        "quantity": "100g cucumber, 50g guacamole",
+                        "recipe": "Serve cucumber slices with guacamole for dipping.",
+                        "image_url": "https://bakingthegoods.com/wp-content/uploads/2017/07/Guacamole-with-Spicy-Cucumbers-and-Radishes-35.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Vegetable soup with lentils",
+                        "calories": 600,
+                        "quantity": "200g mixed vegetables, 100g lentils",
+                        "recipe": "Cook lentils and vegetables in broth until tender.",
+                        "image_url": "https://simple-veganista.com/wp-content/uploads/2019/10/vegan-lentil-soup-recipe-5.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1900
+              },
+              {
+                "day": 7,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Pancakes made with oats and banana",
+                        "calories": 350,
+                        "quantity": "100g oats, 1 banana, 1 egg",
+                        "recipe": "Blend oats and banana, mix with egg, and cook on a skillet.",
+                        "image_url": "https://wholesomemadeeasy.com/wp-content/uploads/2020/12/Banana-Oat-Pancakes-11.jpg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Orange slices",
+                        "calories": 100,
+                        "quantity": "1 orange",
+                        "recipe": "Peel and slice the orange.",
+                        "image_url": "https://ofbatteranddough.com/wp-content/uploads/2023/04/1200-Orange-slices.jpg"
+                      }
+                    ],
+                    "total_calories": 100
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Turkey meatballs with zucchini noodles",
+                        "calories": 550,
+                        "quantity": "150g turkey, 200g zucchini",
+                        "recipe": "Form turkey into meatballs and bake, serve with spiralized zucchini.",
+                        "image_url": "https://www.onceuponapumpkinrd.com/wp-content/uploads/2019/09/Pumpkin-Turkey-Meatballs-with-Zucchini-Noodles.jpg"
+                      }
+                    ],
+                    "total_calories": 550
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein bar",
+                        "calories": 200,
+                        "quantity": "1 bar",
+                        "recipe": "Enjoy a store-bought or homemade protein bar.",
+                        "image_url": "https://i5.walmartimages.com/seo/Pure-Protein-Chocolate-Peanut-Caramel-Protein-Bars-20g-Protein-1-76-oz-6-Ct_e014b8f1-c63c-4cbc-bcb0-38b5d6ab1a3b.242a5f2d7dd68b8847a33f70d501694c.jpeg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Stuffed bell peppers with quinoa and ground turkey",
+                        "calories": 600,
+                        "quantity": "150g ground turkey, 100g quinoa, 2 bell peppers",
+                        "recipe": "Cook turkey and quinoa, stuff into halved bell peppers, and bake.",
+                        "image_url": "https://theheirloompantry.co/wp-content/uploads/2022/08/turkey-and-quinoa-stuffed-bell-peppers-without-rice-the-heirloom-pantry-01.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1900
+              }    
+        ]
+      },
+      "weight_gain": {
+        "days": [
+            {
+                "day": 1,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Oatmeal with banana and honey",
+                        "calories": 400,
+                        "quantity": "100g oats, 1 banana, 1 tbsp honey",
+                        "recipe": "Cook oats in water, top with banana slices and honey.",
+                        "image_url": "https://www.kitchenofyouth.com/wp-content/uploads/2018/01/peanut-butter-banana-oatmeat-vertical-cropped-overhead-7045.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein shake",
+                        "calories": 300,
+                        "quantity": "1 scoop protein powder, 200ml milk",
+                        "recipe": "Mix protein powder with milk in a shaker.",
+                        "image_url": "https://images.getrecipekit.com/20230524205325-chocolate-20protein-20shake.png?width=650&quality=90&"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Grilled chicken with rice and broccoli",
+                        "calories": 600,
+                        "quantity": "200g chicken, 150g rice, 100g broccoli",
+                        "recipe": "Grill chicken, serve with steamed rice and broccoli.",
+                        "image_url": "https://feelgoodfoodie.net/wp-content/uploads/2017/02/chicken-teriyaki-bowl-07.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Greek yogurt with mixed nuts",
+                        "calories": 250,
+                        "quantity": "200g yogurt, 30g mixed nuts",
+                        "recipe": "Top yogurt with mixed nuts.",
+                        "image_url": "https://www.eatingwell.com/thmb/a6AOuNORtHOrWbIlhHzJFH3_biM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4582993-200eb606454f44a1af76979da4d7cebe.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Pasta with beef bolognese",
+                        "calories": 700,
+                        "quantity": "150g pasta, 200g ground beef, 100g tomato sauce",
+                        "recipe": "Cook pasta, prepare bolognese sauce, and serve together.",
+                        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg"
+                      }
+                    ],
+                    "total_calories": 700
+                  }
+                ],
+                "day_total_calories": 2250
+              },
+              {
+                "day": 2,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Eggs and avocado on toast",
+                        "calories": 500,
+                        "quantity": "3 eggs, 1 avocado, 2 slices whole grain bread",
+                        "recipe": "Fry eggs, mash avocado, and serve on toast.",
+                        "image_url": "https://www.kitchensanctuary.com/wp-content/uploads/2019/01/eggs-and-avocado-on-toast-square-FS.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Cottage cheese with pineapple",
+                        "calories": 200,
+                        "quantity": "200g cottage cheese, 100g pineapple",
+                        "recipe": "Mix cottage cheese with pineapple chunks.",
+                        "image_url": "https://www.skinnytaste.com/wp-content/uploads/2022/07/Pineapple-Chia-with-Cottage-Cheese-6.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Turkey sandwich with whole grain bread",
+                        "calories": 600,
+                        "quantity": "150g turkey, 2 slices whole grain bread, lettuce, tomato",
+                        "recipe": "Assemble sandwich with turkey, lettuce, and tomato.",
+                        "image_url": "https://nutritiontofit.com/wp-content/uploads/2019/11/turkey-avocado-sandwich-6-600x900.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Trail mix",
+                        "calories": 300,
+                        "quantity": "50g trail mix",
+                        "recipe": "Enjoy a mix of nuts, seeds, and dried fruit.",
+                        "image_url": "https://s3.amazonaws.com/jo.www.bucket/chex.com/derivatives/image/a1101446dccaa71e5f04846ac4364d90/img-2888-2888-0-false-default-fff"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Salmon with quinoa and asparagus",
+                        "calories": 700,
+                        "quantity": "200g salmon, 150g quinoa, 100g asparagus",
+                        "recipe": "Grill salmon and serve with quinoa and steamed asparagus.",
+                        "image_url": "https://ourbalancedbowl.com/wp-content/uploads/2019/04/IMG_6730-683x1024.jpg"
+                      }
+                    ],
+                    "total_calories": 700
+                  }
+                ],
+                "day_total_calories": 2300
+              },
+              {
+                "day": 3,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Smoothie with spinach, banana, and protein powder",
+                        "calories": 400,
+                        "quantity": "1 banana, 30g spinach, 1 scoop protein powder, 200ml almond milk",
+                        "recipe": "Blend all ingredients until smooth.",
+                        "image_url": "https://www.garnishwithlemon.com/wp-content/uploads/2019/08/Easy-Banana-Spinach-Protein-Smoothie-2019-1-of-3.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Peanut butter on rice cakes",
+                        "calories": 250,
+                        "quantity": "2 rice cakes, 2 tbsp peanut butter",
+                        "recipe": "Spread peanut butter on rice cakes.",
+                        "image_url": "https://thefoodiephysician.com/wp-content/uploads/2022/07/chocolate-peanut-butter-ricecake-1.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Chicken stir-fry with vegetables and rice",
+                        "calories": 600,
+                        "quantity": "200g chicken, 150g mixed vegetables, 150g rice",
+                        "recipe": "Stir-fry chicken and vegetables, serve with rice.",
+                        "image_url": "https://www.wellplated.com/wp-content/uploads/2019/07/Ginger-Teriyaki-Chicken-Stir-Fry.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Dark chocolate and almonds",
+                        "calories": 250,
+                        "quantity": "30g dark chocolate, 30g almonds",
+                        "recipe": "Enjoy dark chocolate with a handful of almonds.",
+                        "image_url": "https://healthfulblondie.com/wp-content/uploads/2023/11/dark-chocolate-almond-bark.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Beef tacos with avocado and salsa",
+                        "calories": 700,
+                        "quantity": "150g beef, 2 taco shells, 1 avocado, salsa",
+                        "recipe": "Cook beef, fill taco shells with beef, avocado, and salsa.",
+                        "image_url": "https://afm-6b83.kxcdn.com/wp-content/uploads/2023/01/Small-Image-Recipe-Resize-1-4-296x345.png"
+                      }
+                    ],
+                    "total_calories": 700
+                  }
+                ],
+                "day_total_calories": 2200
+              },
+              {
+                "day": 4,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "French toast with maple syrup",
+                        "calories": 500,
+                        "quantity": "2 slices whole grain bread, 2 eggs, 2 tbsp maple syrup",
+                        "recipe": "Dip bread in egg mixture, cook on skillet, and serve with syrup.",
+                        "image_url": "https://littlesunnykitchen.com/wp-content/uploads/2023/02/French-Toast-1.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Hummus with carrot sticks",
+                        "calories": 200,
+                        "quantity": "100g hummus, 100g carrot sticks",
+                        "recipe": "Serve carrot sticks with hummus for dipping.",
+                        "image_url": "https://www.attainable-sustainable.net/wp-content/uploads/2018/04/red-pepper-hummus.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Baked sweet potato with black beans",
+                        "calories": 600,
+                        "quantity": "200g sweet potato, 100g black beans",
+                        "recipe": "Bake sweet potato, top with black beans.",
+                        "image_url": "https://hauteandhealthyliving.com/wp-content/uploads/2018/08/Stuffed-Black-Bean-Sweet-Potatoes-with-Avocado-Creme-1-700x910.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Cheese and whole grain crackers",
+                        "calories": 300,
+                        "quantity": "50g cheese, 50g crackers",
+                        "recipe": "Serve cheese with whole grain crackers.",
+                        "image_url": "https://weelittlevegans.com/wp-content/uploads/2018/01/WholeWheatCheexyHerbCrackers14-763x1024.jpg"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Lamb chops with couscous and vegetables",
+                        "calories": 700,
+                        "quantity": "200g lamb, 150g couscous, 100g mixed vegetables",
+                        "recipe": "Grill lamb chops, serve with couscous and vegetables.",
+                        "image_url": "https://www.ocado.com/cmscontent/recipe_image_large/45937593.jpg?eT0x"
+                      }
+                    ],
+                    "total_calories": 700
+                  }
+                ],
+                "day_total_calories": 2300
+              },
+              {
+                "day": 5,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Pancakes with berries and syrup",
+                        "calories": 600,
+                        "quantity": "150g pancake mix, 100g berries, 30ml syrup",
+                        "recipe": "Prepare pancakes as per mix instructions, top with berries and syrup.",
+                        "image_url": "https://www.recipeharmony.com/wp-content/uploads/sites/122/2023/03/pancakes-with-berries-and-maple-syrup-500x500.jpeg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Almonds and dried fruit",
+                        "calories": 300,
+                        "quantity": "50g almonds, 50g dried fruit",
+                        "recipe": "Mix almonds with dried fruit.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWGNmb-16S4p3NsyGkr24MQID2iJSRgZY2A&s"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Chicken and vegetable stir-fry",
+                        "calories": 650,
+                        "quantity": "200g chicken, 150g mixed vegetables, 100g rice",
+                        "recipe": "Stir-fry chicken and vegetables, serve with rice.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5l9-Aq8czmvJrL4LeKtjRX8z-jLJ8-BiH_w&s"
+                      }
+                    ],
+                    "total_calories": 650
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Greek yogurt with honey",
+                        "calories": 250,
+                        "quantity": "200g yogurt, 1 tbsp honey",
+                        "recipe": "Mix yogurt with honey.",
+                        "image_url": "https://damnspicy.com/wp-content/uploads/2020/10/greek-yogurt-with-walnuts-and-honey-recipe-2_-scaled.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Steak with mashed potatoes",
+                        "calories": 800,
+                        "quantity": "200g steak, 200g potatoes",
+                        "recipe": "Grill steak and mash potatoes, serve together.",
+                        "image_url": "https://media.blueapron.com/culinary/recipe/28890/square_image/8a580af1805f25fe82f8fb1e74eacd43.jpg?format=pjpg&quality=80&width=1300"
+                      }
+                    ],
+                    "total_calories": 800
+                  }
+                ],
+                "day_total_calories": 2600
+              },
+              {
+                "day": 6,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Smoothie with protein powder, banana, and spinach",
+                        "calories": 500,
+                        "quantity": "1 banana, 30g spinach, 1 scoop protein powder, 200ml almond milk",
+                        "recipe": "Blend all ingredients until smooth.",
+                        "image_url": "https://detoxinista.com/wp-content/uploads/2015/06/smoothie-smoothie-468x468.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Rice cakes with almond butter",
+                        "calories": 250,
+                        "quantity": "2 rice cakes, 2 tbsp almond butter",
+                        "recipe": "Spread almond butter on rice cakes.",
+                        "image_url": "https://images.eatthismuch.com/img/332327_tabitharwheeler_a879972f-0c55-442a-af19-fb70df8b7bd0.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Tuna salad with chickpeas",
+                        "calories": 600,
+                        "quantity": "150g tuna, 100g chickpeas, mixed greens",
+                        "recipe": "Mix tuna and chickpeas with greens, add dressing.",
+                        "image_url": "https://www.allrecipes.com/thmb/m9hv8OuIx5VL5SNU0neli-69mJo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/215901-tuna-and-chickpea-salad-France-C-4x3-1-c8cf41b28ab04054aecc2f1c50029365.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein bar",
+                        "calories": 250,
+                        "quantity": "1 protein bar",
+                        "recipe": "Enjoy a protein bar as a snack.",
+                        "image_url": "https://i5.walmartimages.com/seo/Pure-Protein-Chocolate-Peanut-Caramel-Protein-Bars-20g-Protein-1-76-oz-6-Ct_e014b8f1-c63c-4cbc-bcb0-38b5d6ab1a3b.242a5f2d7dd68b8847a33f70d501694c.jpeg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Pork chops with quinoa and green beans",
+                        "calories": 750,
+                        "quantity": "200g pork, 150g quinoa, 100g green beans",
+                        "recipe": "Grill pork chops and serve with quinoa and steamed green beans.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvxNCe3F-f_l33qZM_9SNCdSk2e6lZ7EWqAg&s"
+                      }
+                    ],
+                    "total_calories": 750
+                  }
+                ],
+                "day_total_calories": 2350
+              },
+              {
+                "day": 7,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Breakfast burrito with eggs and beans",
+                        "calories": 600,
+                        "quantity": "3 eggs, 100g black beans, 1 tortilla",
+                        "recipe": "Scramble eggs, mix with beans, wrap in tortilla.",
+                        "image_url": "https://dempsters.ca/sites/default/files/styles/recipes_full_467x341_/public/2021-02/Black%20Bean%20Avocado%20Breakfast%20Burrito-017_1800x750-min.jpg?itok=1zzATD1x"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein smoothie",
+                        "calories": 300,
+                        "quantity": "1 scoop protein powder, 200ml milk, 1 banana",
+                        "recipe": "Blend all ingredients until smooth.",
+                        "image_url": "https://www.eatingwell.com/thmb/wUBzQjev3pv7f0eLHnqS-uRo7fg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5678189-e39b0d9f62c543b7aa87ee927fe0cb61.jpg"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Beef stir-fry with rice",
+                        "calories": 700,
+                        "quantity": "200g beef, 150g mixed vegetables, 100g rice",
+                        "recipe": "Stir-fry beef with vegetables, serve with rice.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdp6JxV81iVlD7sDtuhTBlz7qfPW-T03XZA&s"
+                      }
+                    ],
+                    "total_calories": 700
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Hummus and veggie sticks",
+                        "calories": 200,
+                        "quantity": "100g hummus, assorted veggie sticks",
+                        "recipe": "Serve hummus with assorted veggie sticks.",
+                        "image_url": "https://peakroar.com/cdn/shop/articles/Hummus_with_Vegetable_Sticks.jpg?v=1713780343"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Chicken curry with basmati rice",
+                        "calories": 800,
+                        "quantity": "200g chicken, 150g rice, curry sauce",
+                        "recipe": "Cook chicken in curry sauce, serve with rice.",
+                        "image_url": "https://gimmedelicious.com/wp-content/uploads/2021/01/Chicken-Curry-SQ-500x500.jpg"
+                      }
+                    ],
+                    "total_calories": 800
+                  }
+                ],
+                "day_total_calories": 2900
+              }    
+              
+        ]
+      },
+      "weight_maintenance": {
+        "days": [
+            {
+                "day": 1,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Oatmeal with fruits",
+                        "calories": 350,
+                        "quantity": "100g oatmeal, 100g mixed fruits",
+                        "recipe": "Cook oatmeal and top with mixed fruits.",
+                        "image_url": "https://genv.org/wp-content/uploads/2023/02/14-Spiced-oatmeal-with-fruits.jpg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Greek yogurt",
+                        "calories": 150,
+                        "quantity": "150g yogurt",
+                        "recipe": "Enjoy Greek yogurt as a snack.",
+                        "image_url": "https://cdn.mafrservices.com/sys-master-root/hd8/hee/30871559143454/555747_main.jpg?im=Resize=480"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Grilled chicken salad",
+                        "calories": 400,
+                        "quantity": "150g chicken, 100g mixed greens, dressing",
+                        "recipe": "Grill chicken and toss with greens and dressing.",
+                        "image_url": "https://www.thespruceeats.com/thmb/1HuTabE4tSdTe8YDcdiR2ts2P3Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/california-grilled-chicken-salad-recipe-334159-13-8ecd934fee5e42f8b5d38239b083460b.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Almonds",
+                        "calories": 200,
+                        "quantity": "30g almonds",
+                        "recipe": "Enjoy almonds as a healthy snack.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKVN73EC3xMRKFwuulFI3BMLS8rpNj-2shAg&s"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Baked salmon with vegetables",
+                        "calories": 500,
+                        "quantity": "200g salmon, 150g mixed vegetables",
+                        "recipe": "Bake salmon and serve with steamed vegetables.",
+                        "image_url": "https://www.eatingwell.com/thmb/7cHxyYJme47gGuplo3Z3fep95FY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5544320-04f567e988ce416dadc24ba38716147d.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  }
+                ],
+                "day_total_calories": 1600
+              },
+              {
+                "day": 2,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Smoothie with banana and spinach",
+                        "calories": 300,
+                        "quantity": "1 banana, 30g spinach, 200ml almond milk",
+                        "recipe": "Blend all ingredients until smooth.",
+                        "image_url": "https://deliciouslysprinkled.com/wp-content/uploads/2023/05/Spinach-Banana-Smoothie-Recipe.jpg"
+                      }
+                    ],
+                    "total_calories": 300
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Cottage cheese with pineapple",
+                        "calories": 200,
+                        "quantity": "150g cottage cheese, 100g pineapple",
+                        "recipe": "Mix cottage cheese with pineapple.",
+                        "image_url": "https://foodiesintexas.com/wp-content/uploads/2023/12/Cottage-Cheese-Pineapple-Bowl.png"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Turkey wrap with lettuce",
+                        "calories": 400,
+                        "quantity": "100g turkey, 1 wrap, 50g lettuce",
+                        "recipe": "Wrap turkey and lettuce in a tortilla.",
+                        "image_url": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FSeries%2F2020-01-Snapshot-Ground-Turkey%2FSnapshot-Ground-Turkey-Lettuce-Wraps_052"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Fruit salad",
+                        "calories": 150,
+                        "quantity": "150g mixed fruits",
+                        "recipe": "Chop and mix your favorite fruits.",
+                        "image_url": "https://www.cubesnjuliennes.com/wp-content/uploads/2022/06/Fresh-Summer-Fruit-Salad-Recipe.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Stir-fried tofu with vegetables",
+                        "calories": 500,
+                        "quantity": "200g tofu, 150g mixed vegetables",
+                        "recipe": "Stir-fry tofu and vegetables in a pan.",
+                        "image_url": "https://www.simplyrecipes.com/thmb/w4_QB4AOJ6a58M6g8FL7oJp3h7c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Spicy-Tofu-Stirfry-METHOD-10-50c90297cbc840ba9927452d47c7e775.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  }
+                ],
+                "day_total_calories": 1600
+              },
+              {
+                "day": 3,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Scrambled eggs with toast",
+                        "calories": 400,
+                        "quantity": "3 eggs, 2 slices of bread",
+                        "recipe": "Scramble eggs and serve with toasted bread.",
+                        "image_url": "https://www.allrecipes.com/thmb/0VXMwCY9RVNrNvWcF_9v0iZpNqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/JF_241160_CreamyCottageCheeseScrambled_4x3_12902-619d00dc88594ea9b8ed884a108db16d.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Peanut butter on whole-grain toast",
+                        "calories": 250,
+                        "quantity": "2 slices of bread, 30g peanut butter",
+                        "recipe": "Spread peanut butter on toasted bread.",
+                        "image_url": "https://myminichefs.com/wp-content/uploads/2023/05/peanut-butter-toast-image.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Quinoa salad with chickpeas",
+                        "calories": 450,
+                        "quantity": "150g quinoa, 100g chickpeas, mixed veggies",
+                        "recipe": "Cook quinoa and mix with chickpeas and veggies.",
+                        "image_url": "https://www.feastingathome.com/wp-content/uploads/2020/06/Chickpea-Quinoa-Salad-7.jpg"
+                      }
+                    ],
+                    "total_calories": 450
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Apple with almond butter",
+                        "calories": 200,
+                        "quantity": "1 apple, 30g almond butter",
+                        "recipe": "Slice apple and serve with almond butter.",
+                        "image_url": "https://www.unlockfood.ca/EatRightOntario/media/Website-images-resized/Recipe%20Images%20-resized/Almond-Butter-spiced-Apples-v-2-resized.jpg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Grilled shrimp with brown rice",
+                        "calories": 500,
+                        "quantity": "200g shrimp, 150g brown rice",
+                        "recipe": "Grill shrimp and serve with brown rice.",
+                        "image_url": "https://www.allrecipes.com/thmb/39LlNuVFNNjrOcLAwabdjLzidVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/868615-lemony-shrimp-over-brown-rice-Dianne-4x3-1-78ecda2590a84667852002b1a8ca444f.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  }
+                ],
+                "day_total_calories": 1800
+              },
+              {
+                "day": 4,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Pasta with tomato sauce",
+                        "calories": 600,
+                        "quantity": "150g pasta, 100g tomato sauce, 50g grated cheese",
+                        "recipe": "Cook pasta according to package instructions. Heat tomato sauce and mix with pasta. Top with grated cheese.",
+                        "image_url": "https://www.allrecipes.com/thmb/ZhDrBmciWzegNpBWB-5LXEvULao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easyspaghettiwithtomatosauce_11715_DDMFS_4x3_2424-8d7bf30b2622465f9dd78a2c6277eeb8.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Protein bar",
+                        "calories": 200,
+                        "quantity": "1 bar (60g)",
+                        "recipe": "Enjoy a protein bar as a convenient snack.",
+                        "image_url": "https://i5.walmartimages.com/seo/Pure-Protein-Chocolate-Peanut-Caramel-Protein-Bars-20g-Protein-1-76-oz-6-Ct_e014b8f1-c63c-4cbc-bcb0-38b5d6ab1a3b.242a5f2d7dd68b8847a33f70d501694c.jpeg"
+                      }
+                    ],
+                    "total_calories": 200
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Tuna salad",
+                        "calories": 450,
+                        "quantity": "150g tuna, 100g mixed greens, dressing",
+                        "recipe": "Mix tuna with greens and dressing for a refreshing salad.",
+                        "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2020/04/Tuna-Salad-3.jpg"
+                      }
+                    ],
+                    "total_calories": 450
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Rice cakes with almond butter",
+                        "calories": 250,
+                        "quantity": "2 rice cakes, 30g almond butter",
+                        "recipe": "Spread almond butter on rice cakes.",
+                        "image_url": "https://images.eatthismuch.com/img/332327_tabitharwheeler_a879972f-0c55-442a-af19-fb70df8b7bd0.jpg"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Baked chicken with sweet potatoes",
+                        "calories": 500,
+                        "quantity": "200g chicken, 150g sweet potatoes",
+                        "recipe": "Bake chicken and sweet potatoes in the oven until cooked through.",
+                        "image_url": "https://realfood.tesco.com/media/images/RFO-1400x919-ChickenTrayBake-27f51d31-bf3d-4135-aa70-57129b50d4ee-0-1400x919.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  }
+                ],
+                "day_total_calories": 2000
+              },
+              {
+                "day": 5,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Avocado toast with poached egg",
+                        "calories": 400,
+                        "quantity": "2 slices of whole-grain bread, 1 avocado, 1 egg",
+                        "recipe": "Toast the bread, mash the avocado on top, and add a poached egg.",
+                        "image_url": "https://realfood.tesco.com/media/images/Smashed-avocado-v2-LGH-568ba110-4d9e-4023-a2bd-5ffd7528e72a-0-1400x919.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Trail mix",
+                        "calories": 250,
+                        "quantity": "50g mixed nuts and dried fruits",
+                        "recipe": "Mix together your favorite nuts and dried fruits.",
+                        "image_url": "https://www.eatthis.com/wp-content/uploads/sites/4//media/images/ext/912874006/trail-mix-close-up.jpg?quality=82&strip=all"
+                      }
+                    ],
+                    "total_calories": 250
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Grilled vegetable wrap",
+                        "calories": 450,
+                        "quantity": "1 wrap, 100g grilled vegetables, 50g hummus",
+                        "recipe": "Fill the wrap with grilled vegetables and hummus.",
+                        "image_url": "https://www.breathlesswines.com/assets/images/recipes/picture/veggiewrap.jpg"
+                      }
+                    ],
+                    "total_calories": 450
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Hard-boiled egg",
+                        "calories": 70,
+                        "quantity": "1 egg",
+                        "recipe": "Boil the egg for 10 minutes, cool and peel.",
+                        "image_url": "https://www.simplyrecipes.com/thmb/zsQvDavpqD2PtIO-7W6nBWVHCe4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Hard-Boiled-Eggs-LEAD-03-42506773297f4a15920c46628d534d67.jpg"
+                      }
+                    ],
+                    "total_calories": 70
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Stuffed bell peppers",
+                        "calories": 500,
+                        "quantity": "200g ground turkey, 2 bell peppers",
+                        "recipe": "Stuff bell peppers with cooked ground turkey and bake.",
+                        "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_744,ar_5:4/v1/img/recipes/59/39/1/T3LQYq3KTHqAdqkJ258X_stuffed%20peppers%20SITE-2.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  }
+                ],
+                "day_total_calories": 1670
+              },
+              {
+                "day": 6,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Greek yogurt parfait",
+                        "calories": 350,
+                        "quantity": "200g Greek yogurt, 100g granola, 50g berries",
+                        "recipe": "Layer yogurt, granola, and berries in a bowl.",
+                        "image_url": "https://totaste.com/wp-content/uploads/2022/06/greek-yogurt-parfait.jpeg"
+                      }
+                    ],
+                    "total_calories": 350
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Celery sticks with cream cheese",
+                        "calories": 150,
+                        "quantity": "100g celery, 30g cream cheese",
+                        "recipe": "Spread cream cheese on celery sticks.",
+                        "image_url": "https://img.taste.com.au/_EJY1bKr/taste/2016/11/stuffed-celery-sticks-29350-1.jpeg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Quiche with spinach",
+                        "calories": 450,
+                        "quantity": "1 slice (150g)",
+                        "recipe": "Bake a quiche with eggs, spinach, and cheese.",
+                        "image_url": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/15/83/33/ndYdTqMwSPCKg2yRFFPC_Quiche%20SITE-2.jpg"
+                      }
+                    ],
+                    "total_calories": 450
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Orange",
+                        "calories": 80,
+                        "quantity": "1 orange",
+                        "recipe": "Peel and eat the orange.",
+                        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ambersweet_oranges.jpg/800px-Ambersweet_oranges.jpg"
+                      }
+                    ],
+                    "total_calories": 80
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Pork chops with steamed broccoli",
+                        "calories": 600,
+                        "quantity": "200g pork, 150g broccoli",
+                        "recipe": "Grill pork chops and serve with steamed broccoli.",
+                        "image_url": "https://www.sargento.com/assets/Uploads/Recipe/Image/Pork_Chops_w_Broccoli_and_Horseradish_sauce-1620.jpg.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1730
+              },
+              {
+                "day": 7,
+                "meals": [
+                  {
+                    "name": "breakfast",
+                    "items": [
+                      {
+                        "food": "Smoothie bowl",
+                        "calories": 400,
+                        "quantity": "1 banana, 100g spinach, 200ml almond milk, toppings",
+                        "recipe": "Blend banana, spinach, and almond milk, and top with your choice of nuts and seeds.",
+                        "image_url": "https://bitesofwellness.com/wp-content/uploads/2023/10/mango-strawberry-smoothie-bowl-social1.jpg"
+                      }
+                    ],
+                    "total_calories": 400
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Granola bar",
+                        "calories": 150,
+                        "quantity": "1 bar (50g)",
+                        "recipe": "Enjoy a granola bar as a quick snack.",
+                        "image_url": "https://www.inspiredtaste.net/wp-content/uploads/2022/08/Peanut-Butter-Granola-Bars-3-1200.jpg"
+                      }
+                    ],
+                    "total_calories": 150
+                  },
+                  {
+                    "name": "lunch",
+                    "items": [
+                      {
+                        "food": "Chicken Caesar salad",
+                        "calories": 500,
+                        "quantity": "150g chicken, 100g romaine lettuce, dressing",
+                        "recipe": "Grill chicken and toss with lettuce and Caesar dressing.",
+                        "image_url": "https://dinnersdishesanddesserts.com/wp-content/uploads/2021/11/Caesar-Salad-square-scaled.jpg"
+                      }
+                    ],
+                    "total_calories": 500
+                  },
+                  {
+                    "name": "snack",
+                    "items": [
+                      {
+                        "food": "Peach",
+                        "calories": 60,
+                        "quantity": "1 peach",
+                        "recipe": "Wash and eat the peach.",
+                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2ZIRmmzWjjM8aPX3BA2lAFHfZsw6j-xJtg&s"
+                      }
+                    ],
+                    "total_calories": 60
+                  },
+                  {
+                    "name": "dinner",
+                    "items": [
+                      {
+                        "food": "Baked cod with asparagus",
+                        "calories": 600,
+                        "quantity": "200g cod, 150g asparagus",
+                        "recipe": "Bake cod and asparagus in the oven with olive oil.",
+                        "image_url": "https://www.eatwell101.com/wp-content/uploads/2020/01/best-cod-recipe.jpg"
+                      }
+                    ],
+                    "total_calories": 600
+                  }
+                ],
+                "day_total_calories": 1860
+              }       
+        ]
+      }
+    }
+  }
+  
