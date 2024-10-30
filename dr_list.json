@@ -159,6 +159,86 @@
             "advice": "Avoid smoking to reduce respiratory issues and improve overall health.",
             "location": "Sharqia",
             "backgroundColor": "#FCE4EC"
+        },
+        {
+            "id": 21,
+            "doctorName": "Dr. Khaled Ezzat",
+            "date": "31 Oct 24",
+            "advice": "Incorporate physical activities into your daily routine to improve overall well-being.",
+            "location": "Cairo",
+            "backgroundColor": "#B2EBF2"
+        },
+        {
+            "id": 22,
+            "doctorName": "Dr. Hossam El-Masry",
+            "date": "01 Nov 24",
+            "advice": "Eat smaller, more frequent meals throughout the day to maintain energy levels.",
+            "location": "Alexandria",
+            "backgroundColor": "#F8BBD0"
+        },
+        {
+            "id": 23,
+            "doctorName": "Dr. Youssef Shawky",
+            "date": "02 Nov 24",
+            "advice": "Practice mindfulness and meditation for improved mental health.",
+            "location": "Giza",
+            "backgroundColor": "#C8E6C9"
+        },
+        {
+            "id": 24,
+            "doctorName": "Dr. Samah Salah",
+            "date": "03 Nov 24",
+            "advice": "Stay active during the day to promote better sleep at night.",
+            "location": "Port Said",
+            "backgroundColor": "#D1C4E9"
+        },
+        {
+            "id": 25,
+            "doctorName": "Dr. Rami Saeed",
+            "date": "04 Nov 24",
+            "advice": "Practice gratitude to enhance overall well-being and happiness.",
+            "location": "Suez",
+            "backgroundColor": "#FFCCBC"
+        },
+        {
+            "id": 26,
+            "doctorName": "Dr. Zeinab Kamal",
+            "date": "05 Nov 24",
+            "advice": "Engage in hobbies and interests to reduce stress and enhance creativity.",
+            "location": "Luxor",
+            "backgroundColor": "#E0E0E0"
+        },
+        {
+            "id": 27,
+            "doctorName": "Dr. Sherif Tamer",
+            "date": "06 Nov 24",
+            "advice": "Keep your environment clean to minimize allergens and health risks.",
+            "location": "Asyut",
+            "backgroundColor": "#FFABAB"
+        },
+        {
+            "id": 28,
+            "doctorName": "Dr. Layla Tamer",
+            "date": "07 Nov 24",
+            "advice": "Incorporate omega-3 fatty acids into your diet to support brain health.",
+            "location": "Ismailia",
+            "backgroundColor": "#FFCCBC"
+        },
+        {
+            "id": 29,
+            "doctorName": "Dr. Yasmine Abdul",
+            "date": "08 Nov 24",
+            "advice": "Regularly check your blood pressure to monitor your heart health.",
+            "location": "Fayoum",
+            "backgroundColor": "#FFECB3"
+        },
+        {
+            "id": 30,
+            "doctorName": "Dr. Mohamed Noor",
+            "date": "09 Nov 24",
+            "advice": "Participate in community service for improved mental health and social connections.",
+            "location": "Zagazig",
+            "backgroundColor": "#C5E1A5"
         }
     ]
 }
