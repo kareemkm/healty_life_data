@@ -1,0 +1,164 @@
+{
+    "dr_list": [
+        {
+            "id": 1,
+            "doctorName": "Dr. Ahmed Hassan",
+            "date": "11 Oct 24",
+            "advice": "Stay hydrated by drinking 8 cups of water daily.",
+            "location": "Cairo",
+            "backgroundColor": "#E0F7FA"
+        },
+        {
+            "id": 2,
+            "doctorName": "Dr. Mona El-Sayed",
+            "date": "12 Oct 24",
+            "advice": "Get at least 30 minutes of physical activity each day to improve cardiovascular health and boost energy levels.",
+            "location": "Alexandria",
+            "backgroundColor": "#FFEBEE"
+        },
+        {
+            "id": 3,
+            "doctorName": "Dr. Hossam Mahmoud",
+            "date": "13 Oct 24",
+            "advice": "Eat a balanced diet rich in vegetables and fruits for better digestion and immunity.",
+            "location": "Giza",
+            "backgroundColor": "#F1F8E9"
+        },
+        {
+            "id": 4,
+            "doctorName": "Dr. Sarah Nabil",
+            "date": "14 Oct 24",
+            "advice": "Avoid processed foods and opt for natural ingredients to maintain a healthy weight and energy levels.",
+            "location": "Port Said",
+            "backgroundColor": "#FCE4EC"
+        },
+        {
+            "id": 5,
+            "doctorName": "Dr. Amr Adel",
+            "date": "15 Oct 24",
+            "advice": "Sleep 7-8 hours each night to boost your energy levels and improve overall mood.",
+            "location": "Suez",
+            "backgroundColor": "#E1F5FE"
+        },
+        {
+            "id": 6,
+            "doctorName": "Dr. Rania Fouad",
+            "date": "16 Oct 24",
+            "advice": "Practice stress management techniques such as deep breathing and meditation for mental clarity.",
+            "location": "Luxor",
+            "backgroundColor": "#E8F5E9"
+        },
+        {
+            "id": 7,
+            "doctorName": "Dr. Tarek Abdelrahman",
+            "date": "17 Oct 24",
+            "advice": "Take breaks during work hours to avoid fatigue and keep productivity levels high.",
+            "location": "Asyut",
+            "backgroundColor": "#F3E5F5"
+        },
+        {
+            "id": 8,
+            "doctorName": "Dr. Yasmine Khaled",
+            "date": "18 Oct 24",
+            "advice": "Limit sugar intake to prevent health issues, including obesity and type 2 diabetes.",
+            "location": "Ismailia",
+            "backgroundColor": "#FFF3E0"
+        },
+        {
+            "id": 9,
+            "doctorName": "Dr. Mostafa Kamal",
+            "date": "19 Oct 24",
+            "advice": "Include high-fiber foods in your diet, like fruits, vegetables, and whole grains, for better digestion.",
+            "location": "Fayoum",
+            "backgroundColor": "#E3F2FD"
+        },
+        {
+            "id": 10,
+            "doctorName": "Dr. Noha Saad",
+            "date": "20 Oct 24",
+            "advice": "Regular check-ups can help in early detection of illnesses and improve overall quality of life.",
+            "location": "Zagazig",
+            "backgroundColor": "#F1F8E9"
+        },
+        {
+            "id": 11,
+            "doctorName": "Dr. Ehab Omar",
+            "date": "21 Oct 24",
+            "advice": "Use sunscreen daily to protect your skin from harmful UV rays and prevent premature aging.",
+            "location": "Beni Suef",
+            "backgroundColor": "#FFEBEE"
+        },
+        {
+            "id": 12,
+            "doctorName": "Dr. Lamia Gaber",
+            "date": "22 Oct 24",
+            "advice": "Engage in social activities to boost mental health and reduce feelings of loneliness and stress.",
+            "location": "Minya",
+            "backgroundColor": "#E8F5E9"
+        },
+        {
+            "id": 13,
+            "doctorName": "Dr. Mohamed Fathy",
+            "date": "23 Oct 24",
+            "advice": "Limit screen time to reduce eye strain and improve sleep quality.",
+            "location": "Damietta",
+            "backgroundColor": "#FCE4EC"
+        },
+        {
+            "id": 14,
+            "doctorName": "Dr. Sherif Ali",
+            "date": "24 Oct 24",
+            "advice": "Wash your hands regularly with soap and water to prevent infections and spread of germs.",
+            "location": "Qena",
+            "backgroundColor": "#E3F2FD"
+        },
+        {
+            "id": 15,
+            "doctorName": "Dr. Samar Fawzy",
+            "date": "25 Oct 24",
+            "advice": "Stretch regularly to maintain flexibility and reduce muscle stiffness.",
+            "location": "Sohag",
+            "backgroundColor": "#FFF3E0"
+        },
+        {
+            "id": 16,
+            "doctorName": "Dr. Hany Mostafa",
+            "date": "26 Oct 24",
+            "advice": "Maintain a healthy weight to reduce health risks associated with obesity, such as heart disease and diabetes.",
+            "location": "Shubra El-Kheima",
+            "backgroundColor": "#F1F8E9"
+        },
+        {
+            "id": 17,
+            "doctorName": "Dr. Basma Youssef",
+            "date": "27 Oct 24",
+            "advice": "Consume dairy products regularly to ensure your body gets enough calcium for stronger bones and teeth.",
+            "location": "Qalyubia",
+            "backgroundColor": "#FFEBEE"
+        },
+        {
+            "id": 18,
+            "doctorName": "Dr. Khaled El-Shafei",
+            "date": "28 Oct 24",
+            "advice": "Practice good posture to avoid back pain, especially if you work long hours sitting down.",
+            "location": "Kafr El Sheikh",
+            "backgroundColor": "#E3F2FD"
+        },
+        {
+            "id": 19,
+            "doctorName": "Dr. Amal Magdy",
+            "date": "29 Oct 24",
+            "advice": "Incorporate nuts and seeds into your diet to benefit heart health and provide essential nutrients.",
+            "location": "Beheira",
+            "backgroundColor": "#F3E5F5"
+        },
+        {
+            "id": 20,
+            "doctorName": "Dr. Walid Youssef",
+            "date": "30 Oct 24",
+            "advice": "Avoid smoking to reduce respiratory issues and improve overall health.",
+            "location": "Sharqia",
+            "backgroundColor": "#FCE4EC"
+        }
+    ]
+}
