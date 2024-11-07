@@ -35,11 +35,11 @@
                     "name": "lunch",
                     "items": [
                       {
-                        "food": "Grilled chicken salad with avocado and olive oil dressing",
-                        "calories": 500,
-                        "quantity": "150g grilled chicken, 100g mixed greens, 1/2 avocado, 2 tbsp olive oil",
-                        "recipe": "Grill the chicken and slice. Toss with greens, avocado, and drizzle with olive oil.",
-                        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdUIJ6cver5sLx_6zDW2cxgqizad8GwQ-3dA&s"
+                        "food": "Grilled vegetable wrap",
+                        "calories": 450,
+                        "quantity": "1 wrap, 100g grilled vegetables, 50g hummus",
+                        "recipe": "Fill the wrap with grilled vegetables and hummus.",
+                        "image_url": "https://www.breathlesswines.com/assets/images/recipes/picture/veggiewrap.jpg"
                       }
                     ],
                     "total_calories": 500
